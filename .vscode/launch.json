@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ch1Ex3",
+            "request": "launch",
+            "mainClass": "EXERCISES.Ch1Ex3",
+            "projectName": "A Simple Java Program (2)"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - welcome",
+            "request": "launch",
+            "mainClass": "welcome",
+            "projectName": "A Simple Java Program (2)"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ch1Ex2",
+            "request": "launch",
+            "mainClass": "EXERCISES.Ch1Ex2",
+            "projectName": "A Simple Java Program (2)"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ComputeExpression",
             "request": "launch",
             "mainClass": "ComputeExpression"

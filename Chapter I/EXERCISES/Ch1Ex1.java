@@ -1,3 +1,5 @@
+package EXERCISES;
+
 /*
 **
 *  1.1  (Display three messages) Write a program that displays Welcome to Java,
