@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComputeExpression",
+            "request": "launch",
+            "mainClass": "ComputeExpression"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ch1Ex1",
+            "request": "launch",
+            "mainClass": "Ch1Ex1"
+        }
+    ]
+}
