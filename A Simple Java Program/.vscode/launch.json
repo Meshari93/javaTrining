@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ComputeExpression",
+            "request": "launch",
+            "mainClass": "ComputeExpression"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - WelcomeWithThreeMessages",
             "request": "launch",
             "mainClass": "WelcomeWithThreeMessages"
