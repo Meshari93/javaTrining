@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ch1Ex4",
+            "request": "launch",
+            "mainClass": "EXERCISES.Ch1Ex4",
+            "projectName": "A Simple Java Program (2)"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ch1Ex3",
             "request": "launch",
             "mainClass": "EXERCISES.Ch1Ex3",
