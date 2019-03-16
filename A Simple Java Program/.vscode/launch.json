@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - WelcomeWithThreeMessages",
+            "request": "launch",
+            "mainClass": "WelcomeWithThreeMessages"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - welcome",
             "request": "launch",
             "mainClass": "welcome"
